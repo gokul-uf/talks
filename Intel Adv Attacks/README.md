@@ -6,6 +6,6 @@ Up-to-date slides [here](https://docs.google.com/presentation/d/1_QvWuCLjDiBQUo9
 
 ### Prereqs
 0. Install `numpy`, `TensorFlow>=1.3`, `matplotlib`
-1. Download the SVHN dataset from http://ufldl.stanford.edu/housenumbers/ (use format 2) and store in a folder named 'svhn`. 
+1. Download the SVHN dataset from http://ufldl.stanford.edu/housenumbers/ (use format 2) and store in a folder named `svhn`. 
 2. Install `cleverhans` following instructions from https://github.com/tensorflow/cleverhans
 3. Follow the notebook from there on
